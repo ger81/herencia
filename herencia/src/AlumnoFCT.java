@@ -28,7 +28,7 @@ public class AlumnoFCT extends Persona{
 		//System.out.println(fecha.)
 		return true;
 	}
-	//hola
+	//hola 
 	
 	/* 
 	 * metodo getEstado que devuvelva las horas para terminar las practicas
