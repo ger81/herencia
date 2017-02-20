@@ -17,7 +17,7 @@ public class AlumnoFCT extends Persona{
 	AlumnoFCT(String nombre, String dni, int horas, Date fechaFin){
 		
 		super(nombre,dni);
-		int a;
+		int a; 
 		this.horas=horas;
 		this.fechaFin=fechaFin;
 		a=10;
